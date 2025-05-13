@@ -2,7 +2,7 @@
 A simple transport layer protocol built on top of UDP for a data communications course. 
 
 ## Description
-This mini-project is completed for a data communications course at Simon Fraser University (SFU). It involves implementing a flavor of connection-oriented, reliable, and pipelined protocol with flow and congestion control mechanisms. The data exchanged only involves chat messages between a client and a server where messages may not be received on either end correctly due to simulated data loss. 
+This mini-project was originally completed for a data communications course at Simon Fraser University (SFU) in 2024. It involves implementing a flavor of connection-oriented, reliable, and pipelined protocol with flow and congestion control mechanisms. The data exchanged only involves chat messages between a client and a server where messages may not be received on either end correctly due to simulated data loss. 
 
 For more information, the included pdf report in this repository covers this project and its mechanisms more in depth.
 
