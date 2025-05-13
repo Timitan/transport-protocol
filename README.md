@@ -20,3 +20,7 @@ Then the client file in another console: <br/>
 
 After doing so, a connection will be established automatically and the client will take in any message to be sent to the server. Information will be displayed in the console as the server and client communicate with data loss simulated.
 
+## Group Members
+- Amy Jia Ying Tan
+- Timothy Tan
+
